@@ -1,0 +1,25 @@
+---
+title: ""
+date: "`r Sys.Date()`"
+output:
+  rmdformats::robobook:
+    highlight: kate
+---
+
+# Welcome! 
+
+## Institute for Financial Innovation & Technology
+
+Ryan Riordan
+
+and Teaching Assistants
+```{r setup, include=TRUE}
+## Global options
+knitr::opts_chunk$set(cache = TRUE)
+
+print("Hello World!")
+```
+
+## About
+
+## What you will find
