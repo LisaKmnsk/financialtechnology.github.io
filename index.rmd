@@ -23,3 +23,8 @@ print("Hello World!")
 ## About
 
 ## What you will find
+
+
+# Lecture Material
+
+# Tutorial Material
